@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 **ALERT X: Prism** is an advanced AI-driven traffic management system designed to enhance urban mobility by providing real-time traffic monitoring, violation detection, and dynamic signal optimization. Unlike traditional navigation tools, ALERT X leverages live camera feeds, computer vision, and AI analytics to offer precise and actionable insights into traffic conditions.
 
@@ -20,7 +20,7 @@ The system is built using **Samsung SmartThings** for IoT integration, **Samsung
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Real-Time Camera Analysis**: Accesses live traffic cameras to detect rule violations and monitor traffic conditions.
 * **AI Violation Detection**: Uses computer vision and ML models for license plate recognition and behavioral prediction.
@@ -32,7 +32,7 @@ The system is built using **Samsung SmartThings** for IoT integration, **Samsung
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Category            | Tools / Technologies                              |
 | ------------------- | ------------------------------------------------- |
@@ -45,18 +45,18 @@ The system is built using **Samsung SmartThings** for IoT integration, **Samsung
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 Follow these steps to set up the project locally:
 
-### 1️⃣ Clone the repository
+### 1️. Clone the repository
 
 ```bash
 git clone https://github.com/krishnakeshab-banik/ALERT-X-Prism.git
 cd ALERT-X-Prism
 ```
 
-### 2️⃣ Create a virtual environment (optional but recommended)
+### 2️. Create a virtual environment (optional but recommended)
 
 ```bash
 python -m venv venv
@@ -64,13 +64,13 @@ source venv/bin/activate   # For Mac/Linux
 venv\Scripts\activate      # For Windows
 ```
 
-### 3️⃣ Install dependencies
+### 3️. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Run the project
+### 4️. Run the project
 
 For backend:
 
@@ -90,7 +90,7 @@ Now open `http://localhost:5173` (or the port shown in your terminal) to view th
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ALERT-X-Prism/
@@ -114,7 +114,7 @@ ALERT-X-Prism/
 
 ---
 
-## 🎥 Submissions
+## Submissions
 
 All related submission resources will be added here:
 
@@ -125,7 +125,7 @@ https://drive.google.com/file/d/17UgiLvjcu9XqtCbD3f1DSmCeBNd7Wuye/view?usp=shari
 
 ---
 
-## 💡 Future Scope
+## Future Scope
 
 * Integrating **AI prediction** to anticipate congestion trends.
 * Using **Samsung Cloud AI services** for large-scale video analytics.
@@ -134,7 +134,7 @@ https://drive.google.com/file/d/17UgiLvjcu9XqtCbD3f1DSmCeBNd7Wuye/view?usp=shari
 
 ---
 
-## 👨‍💻 Team ALERT X
+## Team ALERT X
 
 | Name                 | Role                     | Domain                  |
 | -------------------- | ------------------------ | ----------------------- |
@@ -145,7 +145,7 @@ https://drive.google.com/file/d/17UgiLvjcu9XqtCbD3f1DSmCeBNd7Wuye/view?usp=shari
 
 ---
 
-## 🛡️ License
+## License
 
 This project is created for the **Samsung PRISM Gen AI Hackathon 2025** and is open-source under the MIT License.
 
