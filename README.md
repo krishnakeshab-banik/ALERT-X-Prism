@@ -140,8 +140,8 @@ https://drive.google.com/file/d/17UgiLvjcu9XqtCbD3f1DSmCeBNd7Wuye/view?usp=shari
 | -------------------- | ------------------------ | ----------------------- |
 | Krishna Keshab Banik | Project Lead             | AI/ML, System Design    |
 | Harshit Kauntia      | Frontend Developer       | React, UI               |
-| Jiten Bhuiya         | Backend Developer        | Python, API Integration |
-| Harshil Agarwal      | Research & Documentation | Report Writing          |
+| Jiten Bhuyan         | Backend Developer        | Python, API Integration |
+| Harshil Agrawal      | Research & Documentation | Report Writing          |
 
 ---
 
