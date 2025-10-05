@@ -1,0 +1,9 @@
+flask
+tensorflow
+opencv-python
+ultralytics
+numpy
+pandas
+firebase-admin
+open cv
+leaflet.js
